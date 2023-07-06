@@ -57,3 +57,20 @@
     color: white;
     transition: 5px;
 }
+.cards{
+    width: 30%;
+    background-color: rgb(128, 31, 31);
+
+}
+
+}
+.image img{
+    width: 600px;
+    height: 500px;
+}
+.peragraph{
+    font-size: 60px;
+}
+.button{
+    font-size: 30px;
+}
