@@ -1,0 +1,59 @@
+.{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(253, 249, 249);
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.menus{
+    display: flex;
+}
+.item{
+    margin: 10pxp;
+    padding: 60px;
+    font-size: 70px;
+
+
+}
+.item:hover{
+    color: rgb(196, 110, 110);
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    border: 2px solid rgb(231, 136, 136);background-color: aquamarine;
+    
+
+}
+.tittle{
+    font-size: 100px;
+    color: brown;
+
+}
+.pera{
+    font-size: 70px;
+}
+.btn{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px 40px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 30px;
+    font-size: 40px;
+
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+    transition: 5px;
+}
